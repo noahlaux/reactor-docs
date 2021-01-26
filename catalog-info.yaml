@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "Reactor"
+  description: "let's react"
+  annotations:
+    github.com/project-slug: noahlaux/reactor-docs
+    backstage.io/techdocs-ref: url:https://github.com/noahlaux/reactor-docs
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "noahlaux"

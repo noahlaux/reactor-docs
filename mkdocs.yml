@@ -1,0 +1,8 @@
+site_name: "Reactor"
+site_description: "let's react"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
